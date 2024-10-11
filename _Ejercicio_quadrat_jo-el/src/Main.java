@@ -7,5 +7,6 @@ public class Main {
         Scanner Scanner = new Scanner.nextDobule();
         double area = numero * numero;
         System.out.print("El area del cuadrado es"+area);
+        System.out.println("Kys");
         }
     }
